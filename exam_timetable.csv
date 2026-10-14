@@ -1,0 +1,9 @@
+Algorithm,Slot,Hall 1,Hall 2,Hall 3
+Welsh-Powell,1,6,7,8
+Welsh-Powell,2,4,5,9
+Welsh-Powell,3,1,2,3
+Welsh-Powell,4,10,,
+Exact Backtracking,1,6,7,8
+Exact Backtracking,2,4,5,9
+Exact Backtracking,3,1,2,3
+Exact Backtracking,4,10,,
